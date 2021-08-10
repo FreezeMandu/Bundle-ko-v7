@@ -2,8 +2,8 @@
     "name": "bundle_ko",
     "displayName": "Bundle korean",
     "minGameVersion": "129",
-    "version": "0.1",
+    "version": "0.2",
     "author": "Mandu",
-    "discription": "한국어 전용",
+    "description": "한국어 전용, 번역이 개판입니다",
     "hidden": "true"
 }
