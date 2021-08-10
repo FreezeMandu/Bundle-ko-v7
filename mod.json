@@ -4,5 +4,6 @@
     "minGameVersion": "129",
     "version": "0.1",
     "author": "Mandu",
-    "discription": "한국어 전용"
+    "discription": "한국어 전용",
+    "hidden": "true"
 }
